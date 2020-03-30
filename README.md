@@ -1,6 +1,22 @@
 # AngularWeather
 
-This project was developed using Angular 7 and Firebase.
+# Features 
+* Login
+* Sign up
+* Search real world cities
+* Add city to Home page
+* Real weather data
+* Weather forecasts
+* City of the month
+
+
+# Quality
+* Angular 7
+* Firebase Authentication and Firestore
+* Grid Layout & Flex Box
+* Mobile friendly and full responsive
+* Dark Mode & Light Mode
+* Beautiful Minimalistic Design
 
 # Demo
 https://angularweather-5c86c.firebaseapp.com
@@ -13,12 +29,18 @@ https://angularweather-5c86c.firebaseapp.com
 ![Image demo 2](https://i.imgur.com/NmNRAmX.jpg)
 
 
+![Image demo 3](https://i.imgur.com/x13Vb1G.jpg)
+
+
 ## Dark mode
 
-![Image demo 3](https://i.imgur.com/IdOy1o3.png)
+![Image demo 4](https://i.imgur.com/IdOy1o3.png)
 
 
-![Image demo 4](https://i.imgur.com/fao0ClF.jpg)
+![Image demo 5](https://i.imgur.com/fao0ClF.jpg)
+
+
+![Image demo 6](https://i.imgur.com/eapphhE.jpg)
 
 
 ## Development server
