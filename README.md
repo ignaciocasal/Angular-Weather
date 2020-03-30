@@ -23,6 +23,11 @@ Real weather Web App developed using Angular 7, Firebase and OpenWeatherMap API
 # Demo
 https://angularweather-5c86c.firebaseapp.com
 
+demo@email.com
+123456
+
+# Screenshoots
+
 ## Light mode
 
 ![Image demo 1](https://i.imgur.com/CNZPOCU.png)
