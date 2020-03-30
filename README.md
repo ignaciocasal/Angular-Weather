@@ -1,22 +1,24 @@
 # AngularWeather
+Real weather Web App developed using Angular 7, Firebase and OpenWeatherMap API
 
-# Features 
-* Login
-* Sign up
-* Search real world cities
-* Add city to Home page
-* Real weather data
-* Weather forecasts
-* City of the month
-
-
-# Quality
+# Features
 * Angular 7
 * Firebase Authentication and Firestore
+* OpenWeatherMap API
+* Unsplash API
 * Grid Layout & Flex Box
 * Mobile friendly and full responsive
 * Dark Mode & Light Mode
 * Beautiful Minimalistic Design
+
+# Functions 
+* Login
+* Sign up
+* Search real world cities
+* Add city to Home page
+* Current weather
+* Weather forecast
+* City of the month
 
 # Demo
 https://angularweather-5c86c.firebaseapp.com
