@@ -1,17 +1,29 @@
 # AngularWeather
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This project was developed using Angular 7 and Firebase.
 
 # Demo
 https://angularweather-5c86c.firebaseapp.com
 
+## Light mode
+
+![Image demo 1](https://i.imgur.com/CNZPOCU.png)
+
+
+![Image demo 2](https://i.imgur.com/NmNRAmX.jpg)
+
+
+## Dark mode
+
+![Image demo 3](https://i.imgur.com/IdOy1o3.png)
+
+
+![Image demo 4](https://i.imgur.com/fao0ClF.jpg)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
@@ -20,11 +32,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
