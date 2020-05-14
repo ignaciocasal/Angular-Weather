@@ -1,6 +1,12 @@
 # AngularWeather
 Real weather Web App developed using Angular 7, Firebase and OpenWeatherMap API
 
+# Demo
+https://angularweather-5c86c.firebaseapp.com
+
+demo@email.com
+123456
+
 # Features
 * Angular 7
 * Firebase Authentication and Firestore
@@ -19,12 +25,6 @@ Real weather Web App developed using Angular 7, Firebase and OpenWeatherMap API
 * Current weather
 * Weather forecast
 * City of the month
-
-# Demo
-https://angularweather-5c86c.firebaseapp.com
-
-demo@email.com
-123456
 
 # Screenshoots
 
